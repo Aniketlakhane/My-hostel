@@ -1,0 +1,21 @@
+
+div {
+    text-align: center;
+    margin-top: 20px;
+    color: #007bff;
+  }
+  
+  h1 {
+    font-size: 36px;
+    color: #007bff;
+    padding: 50px;
+  }
+  
+  p {
+    font-size: 18px;
+    line-height: 1.6;
+    color: #e6f1f2;
+    margin-top: 20px;
+    padding:  20px;
+  }
+  

@@ -1,0 +1,135 @@
+.home-container .nav-white {
+  background-color: #eb1212;
+}
+
+.home-container .navbar-brand {
+  color: #fdefe8;
+}
+
+.home-container .white-heading {
+  color: #F3FDE8;
+  font-size: 50px;
+  display: inline-block;
+  width: 500px;
+  position: center;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.home-container .white-heading-hostel {
+  color: #F3FDE8;
+  font-size: 50px;
+  display: inline-block;
+  width: 220px;
+  position: center;
+  left: 140px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.home-container .blue-heading {
+  color: #279EFF;
+  font-size: 50px;
+  display: inline-block;
+  width:300px;
+  position:  center;
+  left: 120px;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.home-container .registration {
+  position: center;
+  top: 30px;
+  left: 335px;
+  color: #F3FDE8; 
+  font-size: 16px; 
+  text-decoration: underline;
+}
+
+.home-container .btn-login {
+  background-color: #279EFF;
+  width: 400px;
+  height: 50px;
+  font-size: 20px;
+  color: #F3FDE8;
+  border-radius: 10px;
+  border: 0;
+  position: revert;
+  top: 25px;
+  left: 205px;
+}
+
+.home-container .white-heading-para {
+  color: #F3FDE8;
+  position: center;
+  bottom: 65px;
+  left: 245px;
+}
+
+
+.home-container .btn-login a {
+  text-decoration: honeydew; /* Remove default underline */
+  color: #F3FDE8; /* Set text color */
+}
+
+
+.home-container .btn-login a:hover {
+  text-decoration: underline; 
+}
+
+.home-container .size-image {
+  width: 450px;
+  height: 500px;
+  border-radius: 30px;
+}
+
+.home-container .image {
+  display: inline-block;
+  width: 200px;
+  position: relative;
+  top: 12px;
+  left: -55px;
+}
+
+.home-container .size-image {
+  transition: transform 0.3s ease-in-out; /* Apply a smooth transition to the transform property */
+}
+
+.home-container .size-image:hover {
+  transform: translateX(10px); /* Move the image 10px to the right on hover */
+}
+
+
+.home-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.home-container .text {
+  flex: 1;
+  padding: 20px; /* Add padding for spacing */
+}
+
+.home-container .image {
+  flex: 1;
+  padding: 20px; /* Add padding for spacing */
+}
+
+.home-container .or-text-white {
+  font-size: 25px;
+  color: #F3FDE8;
+  position: center;
+  top: 40px;
+  left: 395px;
+}
+
+.home-container h1 {
+  position:  center;
+  left: 75px;
+  bottom: 70px;
+}

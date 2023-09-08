@@ -1,0 +1,77 @@
+
+.ac {
+  text-align: center;
+  margin: 50px auto;
+  width: 100%; /* Adjust the maximum width as needed */
+  padding: 20px;
+ 
+}
+
+.ac form {
+  background-color: #f4f4f4;
+  padding: 20px;
+  width: 80%; /* Adjust the width as needed */
+  margin: 0 auto; 
+}
+
+
+.ac h2 {
+  font-size: 1.8rem;
+  color: #05111e;
+  margin-bottom: 10px;
+  
+}
+
+.ac p {
+  font-size: 1.1rem;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+
+.ac label {
+  display: block;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: left;
+}
+
+
+.ac input[type="text"],
+.ac textarea {
+  width: 100%;
+  min-height: 50px;
+  padding: 10px;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.ac textarea {
+  width: 100%; 
+  min-height: 140px; 
+  padding: 10px; 
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  resize: vertical;
+  font-size: 16px;
+}
+
+
+.ac button[type="submit"] {
+  background-color: #007bff;
+  color: #fff;
+  display: block;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  margin-left: auto; /* Center the button horizontally */
+  margin-right: auto;
+}
+
+
+.ac button[type="submit"]:hover {
+  position: center;
+  background-color: #0056b3;
+}
